@@ -1,0 +1,6 @@
+node_modules/
+tiny_png_account.js
+tiles/
+tiny_tiles/
+*.png
+*.zip
