@@ -12,3 +12,7 @@ JS script for minifying tile images.
 * Clone the project next to your tiles folder.
 * Update `SRC` and `DST` constants in `tiny_tiles.js` script.
 * Run with `node ./tiny_tiles.js`.
+
+## License
+
+MIT
