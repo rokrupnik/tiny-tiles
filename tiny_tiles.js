@@ -3,8 +3,8 @@ const fs = require('fs'),
     imageminPngquant = require('imagemin-pngquant'),
     path = require('path');
 
-const SRC = './test_tiles/',
-    DST = './tiny_tiles_8/';
+const SRC = './tiles/',
+    DST = './tiny_tiles/';
 
 const walkSync = async (dir, level) => {
     // Create dst directories if they do not exist
